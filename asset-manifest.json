@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fx-app/static/css/main.f855e6bc.css",
-    "main.js": "/fx-app/static/js/main.b283d6e3.js",
+    "main.js": "/fx-app/static/js/main.1b31858a.js",
     "static/js/453.3be714e2.chunk.js": "/fx-app/static/js/453.3be714e2.chunk.js",
     "static/media/logo.svg": "/fx-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/fx-app/index.html",
     "main.f855e6bc.css.map": "/fx-app/static/css/main.f855e6bc.css.map",
-    "main.b283d6e3.js.map": "/fx-app/static/js/main.b283d6e3.js.map",
+    "main.1b31858a.js.map": "/fx-app/static/js/main.1b31858a.js.map",
     "453.3be714e2.chunk.js.map": "/fx-app/static/js/453.3be714e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b283d6e3.js"
+    "static/js/main.1b31858a.js"
   ]
 }
