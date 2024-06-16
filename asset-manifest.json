@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/fx-app/static/css/main.c82d0d55.css",
-    "main.js": "/fx-app/static/js/main.097842e6.js",
+    "main.js": "/fx-app/static/js/main.8ed8f97e.js",
     "static/js/952.29fb27bc.chunk.js": "/fx-app/static/js/952.29fb27bc.chunk.js",
     "static/js/453.3be714e2.chunk.js": "/fx-app/static/js/453.3be714e2.chunk.js",
     "static/media/Inter-italic.var.woff2?v=3.19": "/fx-app/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
     "static/media/Inter-roman.var.woff2?v=3.19": "/fx-app/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
     "index.html": "/fx-app/index.html",
     "main.c82d0d55.css.map": "/fx-app/static/css/main.c82d0d55.css.map",
-    "main.097842e6.js.map": "/fx-app/static/js/main.097842e6.js.map",
+    "main.8ed8f97e.js.map": "/fx-app/static/js/main.8ed8f97e.js.map",
     "952.29fb27bc.chunk.js.map": "/fx-app/static/js/952.29fb27bc.chunk.js.map",
     "453.3be714e2.chunk.js.map": "/fx-app/static/js/453.3be714e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c82d0d55.css",
-    "static/js/main.097842e6.js"
+    "static/js/main.8ed8f97e.js"
   ]
 }
