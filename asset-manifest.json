@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/fx-app/static/css/main.e6c13ad2.css",
-    "main.js": "/fx-app/static/js/main.926a9198.js",
+    "main.css": "/fx-app/static/css/main.c82d0d55.css",
+    "main.js": "/fx-app/static/js/main.097842e6.js",
     "static/js/952.29fb27bc.chunk.js": "/fx-app/static/js/952.29fb27bc.chunk.js",
     "static/js/453.3be714e2.chunk.js": "/fx-app/static/js/453.3be714e2.chunk.js",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/fx-app/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/fx-app/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
     "index.html": "/fx-app/index.html",
-    "main.e6c13ad2.css.map": "/fx-app/static/css/main.e6c13ad2.css.map",
-    "main.926a9198.js.map": "/fx-app/static/js/main.926a9198.js.map",
+    "main.c82d0d55.css.map": "/fx-app/static/css/main.c82d0d55.css.map",
+    "main.097842e6.js.map": "/fx-app/static/js/main.097842e6.js.map",
     "952.29fb27bc.chunk.js.map": "/fx-app/static/js/952.29fb27bc.chunk.js.map",
     "453.3be714e2.chunk.js.map": "/fx-app/static/js/453.3be714e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.926a9198.js"
+    "static/css/main.c82d0d55.css",
+    "static/js/main.097842e6.js"
   ]
 }
